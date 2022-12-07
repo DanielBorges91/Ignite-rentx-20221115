@@ -2,9 +2,9 @@
 
 ![Schema Database](https://raw.githubusercontent.com/DanielBorges91/Ignite-rentx-20221115/master/Schema%20database.png)
 
-**RF - Requisitos funcionais**
-**RNF - Requisitos não funcionais**
-**RN - Regra de negócio**
+- **RF** - Requisitos funcionais
+- **RNF** - Requisitos não funcionais
+- **RN** - Regra de negócio
 
 
 # Cadastro de carro
